@@ -1690,3 +1690,13 @@ input, select, textarea {
   min-height: 40px;
   margin-bottom: 1rem;
 }
+.project-card h3 {
+  color: #fff;
+  margin-bottom: 0.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  hyphens: auto;
+}
+
+
